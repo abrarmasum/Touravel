@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "65339880689",
+    "firebase_url": "https://touravel-f8694.firebaseio.com",
+    "project_id": "touravel-f8694",
+    "storage_bucket": "touravel-f8694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65339880689:android:221d906f300d6347",
+        "android_client_info": {
+          "package_name": "huwi.joldi.abrar.touravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65339880689-i3c15ds2cutjqa03pamhbab279pl3m5p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "huwi.joldi.abrar.touravel",
+            "certificate_hash": "af4b3babd79a7e86f3d2046090cfd0f438abbc44"
+          }
+        },
+        {
+          "client_id": "65339880689-tc5k90uka2j28phrcbi3lnnv74refs64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvINqBAM6QfNGPY2Z3Np99prBXV2RVyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65339880689-tc5k90uka2j28phrcbi3lnnv74refs64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

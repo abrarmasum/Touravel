@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Touravel</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="action_camera">Camera</string>
+    <string name="action_gallery">Gallery</string>
+    <string name="btn_device">Device</string>
+    <string name="btn_cloud">Cloud</string>
+    <string name="confirm_permission">This app need to access files on your device.</string>
+    <string name="confirm_camera">This app need to access camera on your device.</string>
+    <string name="error_not_found">No text found</string>
+    <string name="error_setup_model">Error while setting up the model</string>
+    <string name="error_image_init">Image classifier has not been initialized; Skipped.</string>
+    <string name="error_run_model">Error running model inference</string>
+    <string name="error_read_label">Failed to read label list.</string>
+    <string name="error_detect">Nothing detected</string>
+    <string name="title_activity_explore">ExploreActivity</string>
+</resources>
